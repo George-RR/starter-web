@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jorge Rodríguez     jorge.rdz02@protonmail.com      @doblerjr
 
 # THANKS
 
