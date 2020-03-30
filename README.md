@@ -14,4 +14,8 @@ As stated above, the main puropose is to probide simple examples for git
 
 This is a simple web project, deployment can be..
 
-## Hot To Contribute
+## How To Contribute
+
+### Copyright
+
+2014 Git.Training.
